@@ -19,9 +19,7 @@ The Feature Voting System is designed to help teams and communities collect, org
 
 ### Quick Links
 
-```markdown
 | Section       | Link                      |
 | ------------- | ------------------------- |
 | Backend Repo  | [Backend](/backend/README.md) |
 | Frontend Repo | [Frontend](/frontend/README.md)           |
-```
